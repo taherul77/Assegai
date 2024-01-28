@@ -1,33 +1,57 @@
-import React, { Suspense } from "react";
+// import Cart from 'components/cart';
+// import OpenCart from 'components/cart/open-cart';
+
+// import { getMenu } from 'lib/bigcommerce';
+import Link from 'next/link';
+import { Suspense } from 'react';
+import MobileMenu from './components/mobile-menu';
+import LogoSquare from './components/logo-square';
+import Search from './components/search';
+// import Cart from '@/lib/components/cart/cart';
 
 
-const Nav = ({ channel }) => {
+const { SITE_NAME } = process.env;
+
+export default async function Nav() {
+//   const menu = await getMenu('next-js-frontend-header-menu');
+
   return (
-    <nav className="flex w-full gap-4 lg:gap-6" aria-label="Main navigation">
-      <ul className="hidden gap-4 overflow-x-auto whitespace-nowrap md:flex lg:gap-8 lg:px-0">
-        {/* <NavLinks channel={channel} /> */}
-      </ul>
-      <div className="ml-auto flex items-center justify-center gap-4 whitespace-nowrap lg:gap-8">
-        <div className="hidden lg:flex">
-          {/* <SearchBar channel={channel} /> */}
+    <nav className="relative flex items-center justify-between p-4 lg:px-6">
+      <div className="block flex-none md:hidden">
+        <MobileMenu  />
+      </div>
+      <div className="flex w-full items-center">
+        <div className="flex w-full md:w-1/3">
+          <Link href="/" className="mr-2 flex w-full items-center justify-center md:w-auto lg:mr-6">
+            <LogoSquare />
+            <div className="ml-2 flex-none text-sm font-medium uppercase md:hidden lg:block">
+              {SITE_NAME}
+            </div>
+          </Link>
+          {/* {menu.length ? (
+            <ul className="hidden gap-6 text-sm md:flex md:items-center">
+              {menu.map((item) => (
+                <li key={item.title}>
+                  <Link
+                    href={item.path}
+                    className="text-neutral-500 underline-offset-4 hover:text-black hover:underline dark:text-neutral-400 dark:hover:text-neutral-300"
+                  >
+                    {item.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          ) : null} */}
         </div>
-        <Suspense fallback={<div className="w-8" />}>
-          {/* <UserMenuContainer /> */}
-        </Suspense>
+        <div className="hidden justify-center md:flex md:w-1/3">
+          <Search />
+        </div>
+        <div className="flex justify-end md:w-1/3">
+          {/* <Suspense fallback={<OpenCart />}>
+            <Cart />
+          </Suspense> */}
+        </div>
       </div>
-      <div className="flex items-center">
-        <Suspense fallback={<div className="w-6" />}>
-          {/* <CartNavItem channel={channel} /> */}
-        </Suspense>
-      </div>
-      <Suspense>
-        {/* <MobileMenu>
-          <SearchBar channel={channel} />
-          <NavLinks channel={channel} />
-        </MobileMenu> */}
-      </Suspense>
     </nav>
   );
-};
-
-export default Nav;
+}

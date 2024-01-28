@@ -1,7 +1,9 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-import Header from "@/lib/modules/templates/Header/Header";
+// import Header from "@/lib/modules/templates/Header/Header";
+import { Suspense } from "react";
+import Nav from "@/lib/modules/templates/components/Nav/Nav";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,11 +15,14 @@ export const metadata = {
 export default function RootLayout({ children, channel  }) {
   return (
     <>
-    <Header channel={channel} />
-			<div className="flex min-h-[calc(100dvh-64px)] flex-col">
-				<main className="flex-1">{children}</main>
-				{/* <Footer channel={props.params.channel} /> */}
-			</div>
+        <html lang="en" className={inter.variable}>
+      <body className="bg-neutral-50 text-black selection:bg-teal-300 dark:bg-neutral-900 dark:text-white dark:selection:bg-pink-500 dark:selection:text-white">
+        <Nav />
+        <Suspense>
+          <main>{children}</main>
+        </Suspense>
+      </body>
+    </html>
     
     </>
   );
