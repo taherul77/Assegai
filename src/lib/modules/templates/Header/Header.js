@@ -21,13 +21,13 @@ const Header = () => {
           <div class="relative z-10 flex items-center lg:hidden">
             <MobileMenuButton></MobileMenuButton>
           </div>
-          {/* <div class="hidden lg:relative lg:z-10 lg:ml-4 lg:flex lg:items-center">
+          <div class="hidden lg:relative lg:z-10 lg:ml-4 lg:flex lg:items-center">
             <Notification></Notification>
-            <div class="relative ml-4 flex-shrink-0">
+            {/* <div class="relative ml-4 flex-shrink-0">
               <UserMenuButton></UserMenuButton>
               <UserMenuDropDown></UserMenuDropDown>
-            </div>
-          </div> */}
+            </div> */}
+          </div>
         </div>
         {/* <Nav></Nav> */}
       </div>
