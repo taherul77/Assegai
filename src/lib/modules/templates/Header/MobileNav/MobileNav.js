@@ -3,34 +3,34 @@ import MenuItem from '../../components/MenuItem';
 
 const MobileNav = () => {
     return (
-        <nav class="lg:hidden" aria-label="Global" id="mobile-menu">
-        <div class="space-y-1 px-2 pb-3 pt-2">
-          {/* <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" --> */}
+        <nav className="lg:hidden " aria-label="Global" id="mobile-menu">
+        <div className=" border-t border-gray-700 space-y-1 px-2  pb-3 pt-2">
+       
          <MenuItem></MenuItem>
         </div>
-        <div class="border-t border-gray-700 pb-3 pt-4">
-          <div class="flex items-center px-4">
-            <div class="flex-shrink-0">
+        <div className="border-t border-gray-700 pb-3 pt-4">
+          <div className="flex items-center px-4">
+            <div className="flex-shrink-0">
               <img
-                class="h-10 w-10 rounded-full"
+                className="h-10 w-10 rounded-full"
                 src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                 alt=""
               />
             </div>
-            <div class="ml-3">
-              <div class="text-base font-medium text-white">Tom Cook</div>
-              <div class="text-sm font-medium text-gray-400">
+            <div className="ml-3">
+              <div className="text-base font-medium text-white">Tom Cook</div>
+              <div className="text-sm font-medium text-gray-400">
                 tom@example.com
               </div>
             </div>
             <button
               type="button"
-              class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
+              className="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
             >
-              <span class="absolute -inset-1.5"></span>
-              <span class="sr-only">View notifications</span>
+              <span className="absolute -inset-1.5"></span>
+              <span className="sr-only">View notifications</span>
               <svg
-                class="h-6 w-6"
+                className="h-6 w-6"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke-width="1.5"
@@ -45,22 +45,22 @@ const MobileNav = () => {
               </svg>
             </button>
           </div>
-          <div class="mt-3 space-y-1 px-2">
+          <div className="mt-3 space-y-1 px-2">
             <a
               href="#"
-              class="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
+              className="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
             >
               Your Profile
             </a>
             <a
               href="#"
-              class="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
+              className="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
             >
               Settings
             </a>
             <a
               href="#"
-              class="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
+              className="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white"
             >
               Sign out
             </a>
