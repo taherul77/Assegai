@@ -1,35 +1,12 @@
 import React from 'react';
+import MenuItem from '../../components/MenuItem';
 
 const MobileNav = () => {
     return (
         <nav class="lg:hidden" aria-label="Global" id="mobile-menu">
         <div class="space-y-1 px-2 pb-3 pt-2">
           {/* <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" --> */}
-          <a
-            href="#"
-            class="bg-gray-900 text-white block rounded-md py-2 px-3 text-base font-medium"
-            aria-current="page"
-          >
-            Dashboard
-          </a>
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md py-2 px-3 text-base font-medium"
-          >
-            Team
-          </a>
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md py-2 px-3 text-base font-medium"
-          >
-            Projects
-          </a>
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md py-2 px-3 text-base font-medium"
-          >
-            Calendar
-          </a>
+         <MenuItem></MenuItem>
         </div>
         <div class="border-t border-gray-700 pb-3 pt-4">
           <div class="flex items-center px-4">

@@ -32,7 +32,7 @@ const Header = () => {
         <Nav></Nav>
       </div>
 
-      {/* <MobileNav></MobileNav> */}
+      <MobileNav></MobileNav>
     </div>
   );
 };
