@@ -5,10 +5,10 @@ import MenuItem from "../../components/MenuItem";
 const Nav = () => {
   return (
     <nav
-      className="hidden lg:flex items-center lg:space-x-8 lg:py-2"
+      className="hidden lg:flex items-center lg:space-x-2 py-1"
       aria-label="Global"
     >
-      <button className="hover:bg-black/20 transition-all rounded-full p-2 text-gray-500">
+      <button className="hover:bg-black/20 transition-all rounded-full p-1 text-gray-500">
         <HiOutlineMenu size={28} />
         {/* ) : (
           <HiOutlineMenuAlt2 size={32} />
