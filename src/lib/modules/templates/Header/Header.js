@@ -17,8 +17,8 @@ const Header = () => {
           <div class="relative z-10 flex px-2 lg:px-0">
             <div class="flex flex-shrink-0 items-center">ASSEGAI</div>
           </div>
-          {/* <Search></Search>
-          <div class="relative z-10 flex items-center lg:hidden">
+          <Search></Search>
+          {/* <div class="relative z-10 flex items-center lg:hidden">
             <MobileMenuButton></MobileMenuButton>
           </div>
           <div class="hidden lg:relative lg:z-10 lg:ml-4 lg:flex lg:items-center">
