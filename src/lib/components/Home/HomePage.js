@@ -6,9 +6,9 @@ import Latest from "./HomeComponent/Latest";
 const HomePage = () => {
   return (
     <div>
-      <Introduction></Introduction>
       
       <Latest></Latest>
+      <Introduction></Introduction>
       <Blog></Blog>
     </div>
   );
