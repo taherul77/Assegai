@@ -9,10 +9,11 @@ const HomePage = () => {
   return (
     <div className="pt-24">
       <SlideBar></SlideBar>
-      <Introduction></Introduction>
-      <Blog></Blog>
+      {/* <Introduction></Introduction> */}
+      
       <Latest></Latest>
       <Category></Category>
+      <Blog></Blog>
     </div>
   );
 };
