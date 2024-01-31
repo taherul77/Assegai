@@ -15,13 +15,13 @@ const Latest = () => {
         ></div>
         </div>
         <div  className="grid lg:grid-cols-4 gap-5 pt-20 lg:mx-20 mx-5 py-10 ">
-          <div className="border border-slate-950 ">
+          <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
             <Image
               src={image}
               height={400}
               width={400}
               alt=""
-              className="object-cover object-center w-full"
+              className="object-cover object-center "
             />
             <div className="flex flex-col justify-between space-y-8">
               <button
@@ -44,7 +44,7 @@ const Latest = () => {
             </div>
           </div>
   
-          <div className="border border-slate-950 ">
+          <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
           <Image
               src={image}
               height={400}
@@ -73,7 +73,7 @@ const Latest = () => {
             </div>
           </div>
   
-          <div className="border border-slate-950 ">
+          <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
               src={image}
               height={400}
@@ -102,7 +102,7 @@ const Latest = () => {
             </div>
           </div>
   
-          <div className="border border-slate-950 ">
+          <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
               src={image}
               height={400}
