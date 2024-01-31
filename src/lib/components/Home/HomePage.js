@@ -7,8 +7,8 @@ import SlideBar from "@/lib/modules/templates/Slider/Slider";
 
 const HomePage = () => {
   return (
-    <div>
-        <SlideBar></SlideBar>
+    <div className="pt-24">
+      <SlideBar></SlideBar>
       <Introduction></Introduction>
       <Blog></Blog>
       <Latest></Latest>

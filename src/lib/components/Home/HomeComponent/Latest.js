@@ -84,7 +84,7 @@ const Latest = () => {
   
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
-              src={image3}
+              src={image}
               height={400}
               width={400}
               alt=""
@@ -113,7 +113,7 @@ const Latest = () => {
   
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
-              src={image4}
+              src={image6}
               height={400}
               width={400}
               alt=""
