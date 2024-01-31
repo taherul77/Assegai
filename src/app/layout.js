@@ -15,10 +15,13 @@ export default function RootLayout({ children }) {
     <>
       <html lang="en" className={inter.variable}>
         <body className="bg-white text-black">
-          <Header/>
-          <Suspense>
-            <main>{children}</main>
-          </Suspense>
+          <div className="bg-white">
+            <Header />
+
+            <div className="min-h-screen">
+              <Suspense>{children}</Suspense>
+            </div>
+          </div>
         </body>
       </html>
     </>

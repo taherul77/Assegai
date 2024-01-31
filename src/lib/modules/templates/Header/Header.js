@@ -11,7 +11,8 @@ import MobileMenuButton from "../components/MobileMenuButton";
 
 const Header = () => {
   return (
-    <div className="bg-gray-100">
+    <div className="navbar fixed z-10 w-full">
+      <div className="bg-gray-100 ">
       <div className="mx-auto  px-2 sm:px-4 lg:divide-y lg:divide-gray-500 lg:px-8 ">
         <div className="relative flex h-14 justify-between">
           <div className="relative z-10 flex px-2 lg:px-0">
@@ -33,6 +34,7 @@ const Header = () => {
       </div>
 
       <MobileNav></MobileNav>
+    </div>
     </div>
   );
 };
