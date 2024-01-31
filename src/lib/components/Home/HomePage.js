@@ -7,10 +7,11 @@ import Category from "./HomeComponent/Category";
 const HomePage = () => {
   return (
     <div>
+        <Introduction></Introduction>
+      <Blog></Blog>
       <Latest></Latest>
       <Category></Category>
-      <Introduction></Introduction>
-      <Blog></Blog>
+      
     </div>
   );
 };
