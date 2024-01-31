@@ -1,6 +1,15 @@
 import Image from 'next/image';
 import React from 'react';
-import image from "@/lib/assets/Latest_Procucts/Toposar50mg.jpg"
+import image from "@/lib/assets/Product/1.jpg"
+import image1 from "@/lib/assets/Product/2.png"
+import image2 from "@/lib/assets/Product/3.png"
+import image3 from "@/lib/assets/Product/4.jpg"
+import image4 from "@/lib/assets/Product/5.jpg"
+import image5 from "@/lib/assets/Product/6.jpg"
+import image6 from "@/lib/assets/Product/7.jpg"
+import image7 from "@/lib/assets/Product/8.jpg"
+import image8 from "@/lib/assets/Product/9.png"
+import image9 from "@/lib/assets/Product/10.jpg"
 
 const Latest = () => {
     return (
@@ -17,7 +26,7 @@ const Latest = () => {
         <div  className="grid lg:grid-cols-4 gap-5 pt-20 lg:mx-20 mx-5 py-10 ">
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
             <Image
-              src={image}
+              src={image1}
               height={400}
               width={400}
               alt=""
@@ -46,7 +55,7 @@ const Latest = () => {
   
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
           <Image
-              src={image}
+              src={image2}
               height={400}
               width={400}
               alt=""
@@ -75,7 +84,7 @@ const Latest = () => {
   
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
-              src={image}
+              src={image3}
               height={400}
               width={400}
               alt=""
@@ -104,7 +113,7 @@ const Latest = () => {
   
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image
-              src={image}
+              src={image4}
               height={400}
               width={400}
               alt=""
