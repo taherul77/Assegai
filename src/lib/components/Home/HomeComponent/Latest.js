@@ -23,7 +23,7 @@ const Latest = () => {
           className=" lg:mx-[540px] mx-12"
         ></div>
         </div>
-        <div  className="grid lg:grid-cols-4 gap-5 pt-20 lg:mx-20 mx-5 py-10 ">
+        <div  className="grid lg:grid-cols-5 gap-5 pt-10 lg:mx-20 mx-5 py-10 ">
           <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
             <Image
               src={image1}
