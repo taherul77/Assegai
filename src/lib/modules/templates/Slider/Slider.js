@@ -5,12 +5,11 @@ import Image from "next/image";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import { BiArrowBack } from "react-icons/bi";
-import image1 from "@/lib/assets/slider/Banner1.jpg"
-import image2 from "@/lib/assets/slider/Banner2.jpg"
-import image3 from "@/lib/assets/slider/Banner3.jpg"
-import image4 from "@/lib/assets/slider/Banner4.jpg"
-import image5 from "@/lib/assets/slider/Banner5.jpg"
-import image6 from "@/lib/assets/slider/Banner6.jpg"
+import image1 from "@/lib/assets/slider/bannerrr1.png"
+import image2 from "@/lib/assets/slider/bannerrr2.png"
+import image3 from "@/lib/assets/slider/bannerrr3.png"
+import image4 from "@/lib/assets/slider/bannerrr4.png"
+
 
 const Slider = () => {
   return (
@@ -48,14 +47,7 @@ const Slider = () => {
            
         </div>
 
-        <div>
-            <Image height={1000} width={2800}
-                alt=""
-                src={image6}
-                className="aspect-[16/10] md:aspect-auto object-cover"
-            />
-           
-        </div>
+       
 
         <div>
             <Image height={1000} width={2800}
@@ -81,14 +73,7 @@ const Slider = () => {
             />
             
         </div>
-        <div>
-            <Image height={1000} width={2800}
-                alt=""
-                src={image5}
-                className="aspect-[16/10] md:aspect-auto object-cover"
-            />
-            
-        </div>
+      
     </Carousel>
 </div>
   );

@@ -31,7 +31,7 @@ const Blog = () => {
              </h1>
              <div
                style={{ flex: 1, height: "4px", backgroundColor: "rgb(153, 0,0)" }}
-               className="lg:ms-[20px] lg:me-[340px] ms-[20px] me-[150px]"
+               className="lg:ms-[20px] lg:me-[100px] ms-[20px] me-[100px]"
              ></div>
              <p className="text-white px-5 text-lg py-6 text-justify">
              We formulate drugs for all age groups and genders in different dosage forms including capsules, tablets, syrups, suspensions, injectables, soft gelatin capsules, suppositories, creams, and ointments. We maintain two principles of unique supply chain management: formulating optimized versions of medicines for specific patient groups and adopting policies for market release immediately after production. These policies benefit both the patients and the pharmacies as the medicine delivery system extends the product’s lifecycle. Our formulating principles have always revolved around the health and welfare of patients. We constantly strive to improve the quality of life of our patients and customers.

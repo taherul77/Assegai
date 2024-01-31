@@ -18,18 +18,18 @@ import image13 from "@/lib/assets/Product/14.jpg";
 const Category = () => {
   return (
     <div>
-      <div className="bg-[#0a0a0a]">
-        <div>
-          <h1 className="py-8 text-center text-white font-bold text-4xl">
+      <div className="bg-[#0a0a0a] py-5">
+        <div className="py-8">
+          <h1 className=" pb-2 text-center text-white font-bold text-4xl">
             Specialized Products
           </h1>
           <div
             style={{ flex: 1, height: "4px", backgroundColor: "rgb(153, 0,0)" }}
-            className=" lg:mx-[500px] mx-12"
+            className=" lg:mx-[500px] mx-5"
           ></div>
         </div>
 
-        <div className="grid grid-cols-2 lg:grid-cols-5 py-10 gap-10 lg:gap-5 lg:mx-24 mx-10 ">
+        <div className="grid grid-cols-2 lg:grid-cols-5  gap-10 lg:gap-5 lg:mx-24 mx-10 ">
           <div className=" rounded-md bg-white justify-center ">
             <Image
               src={image}
