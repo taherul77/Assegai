@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Suspense } from "react";
 import Header from "@/lib/modules/templates/Header/Header";
+import Footer from "@/lib/modules/templates/Footer/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,7 +22,7 @@ export default function RootLayout({ children }) {
             <div className="min-h-screen overflow-y-auto">
               {children}
             </div>
-          
+          <Footer/>
         </body>
       </html>
     </>
