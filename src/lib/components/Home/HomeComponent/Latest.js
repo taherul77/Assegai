@@ -15,12 +15,12 @@ import { TbCurrencyTaka } from "react-icons/tb";
 const Latest = () => {
   return (
     <div className="">
-      <div className="py-2">
+      <div className="py-5">
         <h1 className="text-left  lg:mx-20 mx-5 justify-center font-bold text-2xl">
-          Just For You
+          JUST FOR YOU
         </h1>
       </div>
-      <div className="grid lg:grid-cols-6 gap-2 lg:mx-20 pb-2 justify-center">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 lg:mx-20 pb-2 justify-center px-2 lg:px-0">
         <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
           <Image height={400} width={400} src={image} alt="" />
           <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
