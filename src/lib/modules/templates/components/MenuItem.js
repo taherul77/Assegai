@@ -8,11 +8,7 @@ const MenuItem = () => {
             <Link href="/AllProduct"> <MenuButton title="ALL"></MenuButton></Link>
             <Link href="/Men"> <MenuButton title="MEN"></MenuButton></Link>
             <Link href="/Women"> <MenuButton title="WOMEN"></MenuButton></Link>
-          
-          
-       
-           <MenuButton title="KIDS"></MenuButton>
-       
+            <Link href="/Kids"> <MenuButton title="KIDS"></MenuButton></Link>
         </div>
     );
 };
