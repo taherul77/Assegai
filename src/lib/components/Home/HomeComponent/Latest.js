@@ -14,152 +14,47 @@ import image9 from "@/lib/assets/Product/10.jpg";
 const Latest = () => {
   return (
     <div className="">
-      <div>
-        <h1 className="pt-14 pb-2 text-center font-bold text-4xl">
-          Latest Products
+      <div className="py-2">
+        <h1 className="text-left  lg:mx-20 mx-5 justify-center font-bold text-2xl">
+          Just For You
         </h1>
-        <div
-          style={{ flex: 1, height: "4px", backgroundColor: "rgb(153, 0,0)" }}
-          className=" lg:mx-[540px] mx-12"
-        ></div>
       </div>
-      <div className="grid lg:grid-cols-5 gap-5 pt-10 lg:mx-20 mx-5 justify-center py-10 ">
-        <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
-          <Image
-            src={image1}
-            height={400}
-            width={400}
-            alt=""
-            className="object-cover object-center "
-          />
-          <div className="flex flex-col justify-between space-y-8">
-            <button
-              type="button"
-              className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-            >
-              TOPOSAR
-            </button>
-          </div>
-          <div className="px-5">
-            <div className="flex pt-2">
-              <h1 className="text-md font-semibold  ">Generic Name: </h1>
-              <h2> Etoposide</h2>
-            </div>
-            <div className="flex pt-1">
-              <h1 className="text-md font-semibold ">Theraputic Name:</h1>
-              <h2 className="pb-10">Oncalogy</h2>
-            </div>
-          </div>
-        </div>
+      <div className="grid lg:grid-cols-6 gap-2 lg:mx-20 mx-5 justify-center py-2 ">
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className=" px-2">
+            <a href="#">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+              Classic Black Sneakers
+              </h5>
+            </a>
 
-        <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
-          <Image
-            src={image2}
-            height={400}
-            width={400}
-            alt=""
-            className="object-cover object-center w-full"
-          />
-          <div className="flex flex-col justify-between space-y-8">
-            <button
-              type="button"
-              className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-            >
-              TOPOSAR
-            </button>
-          </div>
-          <div className=" px-5">
-            <div className="flex pt-2">
-              <h1 className="text-md font-semibold  ">Generic Name: </h1>
-              <h2> Etoposide</h2>
+            <div className="flex items-center">
+              <p className="flex items-center text-[#F85606]">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                strokeWidth="2"
+                stroke="currentColor"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                {" "}
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />{" "}
+                <circle cx="16.5" cy="15.5" r="1" />{" "}
+                <path d="M7 7a2 2 0 1 1 4 0v9a3 3 0 0 0 6 0v-.5" />{" "}
+                <path d="M8 11h6" />{" "}
+              </svg>
+              <span className="text-xl font-bold ">500</span>
+              </p>
             </div>
-            <div className="flex pt-1">
-              <h1 className="text-md font-semibold ">Theraputic Name:</h1>
-              <h2 className="pb-10">Oncalogy</h2>
-            </div>
-          </div>
-        </div>
-
-        <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
-          <Image
-            src={image}
-            height={400}
-            width={400}
-            alt=""
-            className="object-cover object-center w-full"
-          />
-          <div className="flex flex-col justify-between space-y-8">
-            <button
-              type="button"
-              className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-            >
-              TOPOSAR
-            </button>
-          </div>
-          <div className=" px-5">
-            <div className="flex pt-2">
-              <h1 className="text-md font-semibold  ">Generic Name: </h1>
-              <h2> Etoposide</h2>
-            </div>
-            <div className="flex pt-1">
-              <h1 className="text-md font-semibold ">Theraputic Name:</h1>
-              <h2 className="pb-10">Oncalogy</h2>
-            </div>
-          </div>
-        </div>
-        <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
-          <Image
-            src={image7}
-            height={400}
-            width={400}
-            alt=""
-            className="object-cover object-center w-full"
-          />
-          <div className="flex flex-col justify-between space-y-8">
-            <button
-              type="button"
-              className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-            >
-              TOPOSAR
-            </button>
-          </div>
-          <div className=" px-5">
-            <div className="flex pt-2">
-              <h1 className="text-md font-semibold  ">Generic Name: </h1>
-              <h2> Etoposide</h2>
-            </div>
-            <div className="flex pt-1">
-              <h1 className="text-md font-semibold ">Theraputic Name:</h1>
-              <h2 className="pb-10">Oncalogy</h2>
-            </div>
-          </div>
-        </div>
-
-        <div className="border border-slate-950 relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
-          <Image
-            src={image6}
-            height={400}
-            width={400}
-            alt=""
-            className="object-cover object-center w-full"
-          />
-          <div className="flex flex-col justify-between space-y-8">
-            <button
-              type="button"
-              className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-            >
-              TOPOSAR
-            </button>
-          </div>
-          <div className=" px-5">
-            <div className="flex pt-2">
-              <h1 className="text-md font-semibold  ">Generic Name: </h1>
-              <h2> Etoposide</h2>
-            </div>
-            <div className="flex pt-1">
-              <h1 className="text-md font-semibold ">Theraputic Name:</h1>
-              <h2 className="pb-10">Oncalogy</h2>
-            </div>
+            <span className="text-sm text-slate-900 line-through">800</span>
           </div>
         </div>
       </div>
