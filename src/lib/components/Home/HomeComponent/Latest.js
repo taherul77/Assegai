@@ -14,7 +14,7 @@ import { TbCurrencyTaka } from "react-icons/tb";
 
 const Latest = () => {
   return (
-    <div className="">
+    <div className="mb-10">
       <div className="py-5">
         <h1 className="text-left  lg:mx-20 mx-5 justify-center font-bold text-2xl">
           JUST FOR YOU

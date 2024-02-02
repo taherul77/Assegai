@@ -26,7 +26,7 @@ const Category = () => {
         </div>
 
         <div className="grid grid-cols-2 lg:grid-cols-5 gap-2  mx-20 ">
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image}
               height={300}
@@ -34,12 +34,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px] lg:left-16 lg:w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image1}
               height={300}
@@ -47,12 +49,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image2}
               height={300}
@@ -60,12 +64,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image3}
               height={300}
@@ -73,12 +79,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image4}
               height={300}
@@ -86,12 +94,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image5}
               height={300}
@@ -99,12 +109,14 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image6}
               height={300}
@@ -112,114 +124,124 @@ const Category = () => {
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
 
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image7}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image8}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
-            {/* <div className="flex flex-col justify-between space-y-8">
-              <button
-                type="button"
-                className="flex items-center justify-center w-full p-3 font-semibold bg-[#33524A] text-white"
-              >
-                Read more
-              </button>
-            </div> */}
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image9}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image10}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image11}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image12}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image13}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-           <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
-          <div className=" relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md  ">
+          <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image7}
-              height={400}
+              height={300}
               width={300}
               alt=""
               className="object-cover object-center w-full"
             />
-            <span className="absolute top-[-5px]  lg:left-16 w-36 p-2 bg-white  text-center items-center font-bold text-sm rounded-md text-black">
-            NEW
-          </span>
+            <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+              <span className="p-2 bg-white text-center w-36 font-bold text-sm rounded-md text-black">
+                NEW
+              </span>
+            </div>
           </div>
         </div>
       </div>
