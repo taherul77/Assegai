@@ -18,7 +18,7 @@ import image13 from "@/lib/assets/Product/14.jpg";
 const Category = () => {
   return (
     <div>
-      <div className="py-5 hidden lg:block">
+      <div className="py-5 ">
         <div className="py-4">
           <h1 className=" pb-2 text-center text-black font-bold text-4xl">
             CATEGORY

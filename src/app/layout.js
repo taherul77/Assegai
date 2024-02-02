@@ -16,10 +16,8 @@ export default function RootLayout({ children }) {
     <>
       <html lang="en" className={inter.variable}>
         <body className="bg-white text-black">
-          
             <Header />
-
-            <div className="min-h-screen overflow-y-auto">
+            <div className="min-h-screen overflow-y-auto pt-12 lg:pt-24">
               {children}
             </div>
           <Footer/>

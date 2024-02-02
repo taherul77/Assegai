@@ -9,7 +9,7 @@ import Stats from "./HomeComponent/Stats";
 
 const HomePage = () => {
   return (
-    <div className="pt-12 lg:pt-24">
+    <div >
       <SlideBar></SlideBar>
       {/* <Introduction></Introduction> */}
       <Category></Category>

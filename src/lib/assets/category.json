@@ -1,0 +1,121 @@
+{
+    "new_arrivals": [
+      {
+        "category": "Half-Sleeve T-shirt",
+        "picture": "half_sleeve_tshirt.jpg"
+      },
+      {
+        "category": "Designer Short Sleeve",
+        "picture": "designer_short_sleeve.jpg"
+      },
+      {
+        "category": "Sports T-shirt",
+        "picture": "sports_tshirt.jpg"
+      },
+      {
+        "category": "Polo",
+        "picture": "polo_tshirt.jpg"
+      },
+      {
+        "category": "Cut & Stitch Polo",
+        "picture": "cut_stitch_polo.jpg"
+      },
+      {
+        "category": "Half Sleeve Raglan",
+        "picture": "half_sleeve_raglan.jpg"
+      },
+      {
+        "category": "Half Sleeve Blanks",
+        "picture": "half_sleeve_blanks.jpg"
+      },
+      {
+        "category": "Designer Full Sleeve",
+        "picture": "designer_full_sleeve.jpg"
+      },
+      {
+        "category": "Full Sleeve Raglan",
+        "picture": "full_sleeve_raglan.jpg"
+      },
+      {
+        "category": "Full Sleeve Blanks",
+        "picture": "full_sleeve_blanks.jpg"
+      },
+      {
+        "category": "Football Jerseys",
+        "picture": "football_jerseys.jpg"
+      },
+      {
+        "category": "Hoodie",
+        "picture": "hoodie.jpg"
+      },
+      {
+        "category": "Jacket",
+        "picture": "jacket.jpg"
+      },
+      {
+        "category": "Mens Shorts",
+        "picture": "mens_shorts.jpg"
+      },
+      {
+        "category": "Mens Trousers",
+        "picture": "mens_trousers.jpg"
+      },
+      {
+        "category": "Track Pants",
+        "picture": "track_pants.jpg"
+      },
+      {
+        "category": "Mens Undergarments",
+        "picture": "mens_undergarments.jpg"
+      },
+      {
+        "category": "Womens T-shirt",
+        "picture": "womens_tshirt.jpg"
+      },
+      {
+        "category": "Womens Trendy Pajamas",
+        "picture": "womens_trendy_pajamas.jpg"
+      },
+      {
+        "category": "Kids Polo",
+        "picture": "kids_polo.jpg"
+      },
+      {
+        "category": "Kids Half Sleeve T-shirt",
+        "picture": "kids_half_sleeve_tshirt.jpg"
+      },
+      {
+        "category": "Kids Half-Sleeve Blanks",
+        "picture": "kids_half_sleeve_blanks.jpg"
+      },
+      {
+        "category": "Kids Maggie T-shirt",
+        "picture": "kids_maggie_tshirt.jpg"
+      },
+      {
+        "category": "Kids Full Sleeve T-shirt",
+        "picture": "kids_full_sleeve_tshirt.jpg"
+      },
+      {
+        "category": "Kids Trousers",
+        "picture": "kids_trousers.jpg"
+      },
+      {
+        "category": "Kids Shorts",
+        "picture": "kids_shorts.jpg"
+      },
+      {
+        "category": "Premium Cloth Masks",
+        "picture": "premium_cloth_masks.jpg"
+      },
+      {
+        "category": "Designer Edition Masks",
+        "picture": "designer_edition_masks.jpg"
+      },
+      {
+        "category": "Kids Edition Masks",
+        "picture": "kids_edition_masks.jpg"
+      }
+    ]
+  }
+  
