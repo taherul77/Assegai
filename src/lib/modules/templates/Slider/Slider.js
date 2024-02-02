@@ -4,11 +4,11 @@ import Image from "next/image";
 
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-import { BiArrowBack } from "react-icons/bi";
-import image1 from "@/lib/assets/slider/bannerrr1.png"
-import image2 from "@/lib/assets/slider/bannerrr2.png"
-import image3 from "@/lib/assets/slider/bannerrr3.png"
-import image4 from "@/lib/assets/slider/bannerrr4.png"
+
+import image2 from "@/lib/assets/slider/baner.jpg"
+import image3 from "@/lib/assets/slider/baner.jpg"
+import image4 from "@/lib/assets/slider/baner.jpg"
+import image1 from "@/lib/assets/slider/baner.jpg"
 
 
 const Slider = () => {
@@ -21,22 +21,7 @@ const Slider = () => {
         showThumbs={false}
         showIndicators={false}
         showStatus={false}
-        renderArrowPrev={(clickHandler, hasPrev) => (
-            <div
-                onClick={clickHandler}
-                className="absolute right-[31px] md:right-[51px] bottom-4 w-[30px] md:w-[50px] h-[30px] md:h-[50px] bg-black z-10 flex items-center justify-center cursor-pointer hover:opacity-90"
-            >
-                <BiArrowBack className="text-sm md:text-lg" />
-            </div>
-        )}
-        renderArrowNext={(clickHandler, hasNext) => (
-            <div
-                onClick={clickHandler}
-                className="absolute right-0 bottom-4 w-[30px] md:w-[50px] h-[30px] md:h-[50px] bg-black z-10 flex items-center justify-center cursor-pointer hover:opacity-90"
-            >
-                <BiArrowBack className="rotate-180 text-sm md:text-lg" />
-            </div>
-        )}
+      
     >
         <div>
             <Image height={1000} width={2800}

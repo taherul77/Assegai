@@ -47,6 +47,292 @@ const Latest = () => {
             </div>
           </div>
         </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image1} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image2} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image3} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image4} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image1} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image5} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image6} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image7} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image8} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image9} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+          <Image height={400} width={400} src={image} alt="" />
+          <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
+            NEW
+          </span>
+          <div className="space-y-2">
+            <div className="px-2">
+              <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+                Classic Black Sneakers
+              </h5>
+
+              <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">
+                <TbCurrencyTaka />
+                <p className="text-xl font-bold ">480</p>
+              </div>
+
+              <div className="flex items-center text-sm text-slate-900  pb-2 gap-1 ">
+                <div className="flex items-center line-through">
+                  <TbCurrencyTaka />
+                  <p className="text-sm ">800</p>
+                </div>{" "}
+                <span>-40%</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
