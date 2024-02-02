@@ -1,10 +1,8 @@
 "use client"
 import React from "react";
 import Image from "next/image";
-
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
-
 import image2 from "@/lib/assets/slider/baner.jpg"
 import image3 from "@/lib/assets/slider/baner.jpg"
 import image4 from "@/lib/assets/slider/baner.jpg"
