@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Black Sneakers T-shirt",
+      "image": "path/to/image1.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Vintage White Logo T-shirt",
+      "image": "path/to/image2.jpg",
+      "price": 550,
+      "discountedPrice": 900,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "name": "Graphic Print Blue Denim T-shirt",
+      "image": "path/to/image3.jpg",
+      "price": 420,
+      "discountedPrice": 700,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 4,
+      "name": "Sporty Red Striped Polo T-shirt",
+      "image": "path/to/image4.jpg",
+      "price": 600,
+      "discountedPrice": 950,
+      "discountPercentage": 37,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "name": "Casual Grey V-neck T-shirt",
+      "image": "path/to/image5.jpg",
+      "price": 490,
+      "discountedPrice": 820,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 6,
+      "name": "Retro Yellow Stripe Tee",
+      "image": "path/to/image6.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "name": "Floral Print Cotton Blend Shirt",
+      "image": "path/to/image7.jpg",
+      "price": 550,
+      "discountedPrice": 900,
+      "discountPercentage": 39,
+      "isNew": true
+    },
+    {
+      "id": 8,
+      "name": "Modern Geometric Pattern T-shirt",
+      "image": "path/to/image8.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "name": "Striped Casual Crewneck Tee",
+      "image": "path/to/image9.jpg",
+      "price": 520,
+      "discountedPrice": 850,
+      "discountPercentage": 39,
+      "isNew": true
+    },
+    {
+      "id": 10,
+      "name": "Vintage Logo Print Sleeveless Tee",
+      "image": "path/to/image10.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": false
+    },
+    {
+      "id": 11,
+      "name": "Abstract Art Graphic T-shirt",
+      "image": "path/to/image11.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 12,
+      "name": "Cotton Blend Striped Polo Shirt",
+      "image": "path/to/image12.jpg",
+      "price": 560,
+      "discountedPrice": 920,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 13,
+      "name": "Minimalist Pocket Detail Tee",
+      "image": "path/to/image13.jpg",
+      "price": 490,
+      "discountedPrice": 800,
+      "discountPercentage": 39,
+      "isNew": true
+    },
+    {
+      "id": 14,
+      "name": "Classic Logo Embroidered T-shirt",
+      "image": "path/to/image14.jpg",
+      "price": 530,
+      "discountedPrice": 880,
+      "discountPercentage": 40,
+      "isNew": false
+    },
+    {
+      "id": 15,
+      "name": "Urban Camouflage Print Tee",
+      "image": "path/to/image15.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": true
+    },
+    {
+      "id": 16,
+      "name": "Striped Linen Blend Summer Tee",
+      "image": "path/to/image16.jpg",
+      "price": 510,
+      "discountedPrice": 830,
+      "discountPercentage": 38,
+      "isNew": false
+    },
+    {
+      "id": 17,
+      "name": "Color Block Raglan Sleeve T-shirt",
+      "image": "path/to/image17.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 18,
+      "name": "Abstract Watercolor Print Tee",
+      "image": "path/to/image18.jpg",
+      "price": 550,
+      "discountedPrice": 900,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 19,
+      "name": "Vintage Floral Embroidery Shirt",
+      "image": "path/to/image19.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": true
+    },
+    {
+      "id": 20,
+      "name": "Sporty Striped Sleeveless Tank",
+      "image": "path/to/image20.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": false
+    },
+    {
+      "id": 21,
+      "name": "Modern Abstract Print Tee",
+      "image": "path/to/image21.jpg",
+      "price": 490,
+      "discountedPrice": 820,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 22,
+      "name": "Camo Print Long Sleeve T-shirt",
+      "image": "path/to/image22.jpg",
+      "price": 600,
+      "discountedPrice": 950,
+      "discountPercentage": 37,
+      "isNew": false
+    },
+    {
+      "id": 23,
+      "name": "Striped Linen Button-Up Shirt",
+      "image": "path/to/image23.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": true
+    },
+    {
+      "id": 24,
+      "name": "Vintage Pocket Logo Tee",
+      "image": "path/to/image24.jpg",
+      "price": 520,
+      "discountedPrice": 850,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 25,
+      "name": "Abstract Artwork Print T-shirt",
+      "image": "path/to/image25.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 26,
+      "name": "Casual Striped Henley Tee",
+      "image": "path/to/image26.jpg",
+      "price": 580,
+      "discountedPrice": 920,
+      "discountPercentage": 37,
+      "isNew": false
+    },
+    {
+      "id": 27,
+      "name": "Urban Camo Sleeveless Tank",
+      "image": "path/to/image27.jpg",
+      "price": 490,
+      "discountedPrice": 800,
+      "discountPercentage": 39,
+      "isNew": true
+    },
+    {
+      "id": 28,
+      "name": "Vintage Logo Print Crewneck",
+      "image": "path/to/image28.jpg",
+      "price": 540,
+      "discountedPrice": 880,
+      "discountPercentage": 38,
+      "isNew": false
+    },
+    {
+      "id": 29,
+      "name": "Retro Geometric Pattern Tee",
+      "image": "path/to/image29.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": true
+    },
+    {
+      "id": 30,
+      "name": "Classic Black and White Tee",
+      "image": "path/to/image30.jpg",
+      "price": 510,
+      "discountedPrice": 830,
+      "discountPercentage": 38,
+      "isNew": false
+    },
+    {
+      "id": 31,
+      "name": "Abstract Brushstroke Print T-shirt",
+      "image": "path/to/image31.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 32,
+      "name": "Striped Casual Pocket Tee",
+      "image": "path/to/image32.jpg",
+      "price": 520,
+      "discountedPrice": 850,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 33,
+      "name": "Sporty Color Block Polo Shirt",
+      "image": "path/to/image33.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": true
+    },
+    {
+      "id": 34,
+      "name": "Vintage Floral Print Tank",
+      "image": "path/to/image34.jpg",
+      "price": 550,
+      "discountedPrice": 900,
+      "discountPercentage": 39,
+      "isNew": false
+    },
+    {
+      "id": 35,
+      "name": "Modern Striped Sleeveless Tee",
+      "image": "path/to/image35.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 36,
+      "name": "Graphic Print Denim T-shirt",
+      "image": "path/to/image36.jpg",
+      "price": 600,
+      "discountedPrice": 950,
+      "discountPercentage": 37,
+      "isNew": false
+    },
+    {
+      "id": 37,
+      "name": "Casual Grey Pocket Tee",
+      "image": "path/to/image37.jpg",
+      "price": 490,
+      "discountedPrice": 820,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 38,
+      "name": "Retro Logo Embroidered T-shirt",
+      "image": "path/to/image38.jpg",
+      "price": 480,
+      "discountedPrice": 750,
+      "discountPercentage": 36,
+      "isNew": false
+    },
+    {
+      "id": 39,
+      "name": "Abstract Camo Print Tee",
+      "image": "path/to/image39.jpg",
+      "price": 530,
+      "discountedPrice": 880,
+      "discountPercentage": 40,
+      "isNew": true
+    },
+    {
+      "id": 40,
+      "name": "Casual Striped Linen Blend Tee",
+      "image": "path/to/image40.jpg",
+      "price": 480,
+      "discountedPrice": 800,
+      "discountPercentage": 40,
+      "isNew": false
+    }
+  ]
+  

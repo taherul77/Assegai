@@ -25,7 +25,7 @@ const Category = () => {
           </h1>
         </div>
 
-        <div className="grid grid-cols-2 lg:grid-cols-5 gap-2  mx-20 ">
+        <div className="grid grid-cols-2 lg:grid-cols-5 gap-2 mx-2  lg:mx-20 ">
           <div className="relative w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
             <Image
               src={image}

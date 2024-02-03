@@ -1,20 +1,19 @@
-import Latest from '@/lib/components/Home/HomeComponent/Latest'
-import React from 'react'
+"use client"
+import getAllProduct from "@/lib/Api/getAllProduct";
+import Card from "@/lib/components/Product/Card";
+import React, { useEffect, useState } from "react";
 
 export default function AllProducts() {
+
+
   return (
-    <div>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
+    <div className="my-5">
+      
+      
+          <Card  />
+       
+     
     </div>
-  )
+    
+  );
 }
