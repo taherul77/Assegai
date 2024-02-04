@@ -14,8 +14,8 @@ export default function MenCard( {data}) {
         className="relative block w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md"
       >
         <Image height={300} width={400} src={product?.image} alt="" />
-        <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center font-bold text-sm text-white">
-          NEW
+        <span className="absolute px-2 py-1 top-2 left-2 bg-[#1C362F] text-center font-bold text-sm rounded-md text-white">
+          {product?.p_type}
         </span>
         <div className="space-y-2">
           <div className="px-1">

@@ -8,28 +8,40 @@ import { TbCurrencyTaka } from "react-icons/tb";
 import getMenSingleProduct from "@/lib/Api/getMenSingleProduct";
 export default async function MenSingle({ params }) {
   const { id } = params;
-const {data} = await getMenSingleProduct(id);
-console.log(data);
+  const { data } = await getMenSingleProduct(id);
+  const { p_size } = data;
+  console.log(data);
   return (
     <div>
-      <div className="grid lg:grid-cols-2 lg:mx-32 mx-5 gap-10">
+      <div className="grid lg:grid-cols-2 lg:mx-32 mx-5 gap-5">
         <div>
           <Image height={650} width={550} src={data.image} alt="" />
         </div>
         <div>
-          <div>
-            <h1 className="font-bold text-2xl">
-              {data?.name}
-            </h1>
+          <div className="">
+            <h1 className="font-bold text-2xl">{data?.name}</h1>
             <div className="flex  items-center text-xl font-bold  gap-2 py-2">
-              <TbCurrencyTaka />
-              <h2 className="text-xl font-bold">570</h2>
+              <div className="flex items-center  line-through">
+                <TbCurrencyTaka />
+                <h2 className="text-sm">{data?.discountedPrice}</h2>
+              </div>
+              <div className="flex items-center text-xl">
+                <TbCurrencyTaka />
+                <h2 className="text-xl font-bold">{data?.price}</h2>
+              </div>
             </div>
           </div>
 
-          <div>
+          <div className="my-2">
             <h1>Select Size:</h1>
             <div className="pt-2 flex gap-5">
+              {/* {
+                p_size?.map((size,index)=>{
+                   console.log(size.size);
+          
+                })
+              } */}
+
               <button className="text-center py-0.5 px-5 border border-black  hover:drop-shadow-xl hover:scale-105 hover:border-slate-500 ">
                 M
               </button>
@@ -42,7 +54,7 @@ console.log(data);
             </div>
           </div>
 
-          <div className="pt-5 flex gap-6">
+          <div className=" flex gap-6">
             <div className="flex items-center border border-black px-4">
               <FaMinus />
               <h1 className="text-xl px-5">1</h1>
@@ -57,9 +69,7 @@ console.log(data);
 
           <div className="pt-4">
             <h1 className="text-justify ">
-              SmileZ Premium Quality Sports t-shirts are smooth and comfortable.
-              The t-shirts are made with the finest quality polyester fabric,
-              perfect for casual or sports wear.
+              {data?.p_description}
             </h1>
             <h2 className="text-md font-bold pt-2">Detailed Specification:</h2>
             <ul className="ps-10">
