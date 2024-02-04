@@ -2,7 +2,7 @@ import React from "react";
 import { FaMinus } from "react-icons/fa6";
 import { FaPlus } from "react-icons/fa6";
 import { GoDotFill } from "react-icons/go";
-import image from "@/lib/assets/Product/1.jpg";
+
 import Image from "next/image";
 import { TbCurrencyTaka } from "react-icons/tb";
 import getMenSingleProduct from "@/lib/Api/getMenSingleProduct";

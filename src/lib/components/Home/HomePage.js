@@ -17,7 +17,7 @@ const HomePage = () => {
       
       <Blog></Blog>
       <Team></Team>
-      <Stats></Stats>
+      <Stats ></Stats>
     </div>
   );
 };
