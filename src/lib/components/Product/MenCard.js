@@ -18,10 +18,15 @@ export default function MenCard( {data}) {
           NEW
         </span>
         <div className="space-y-2">
-          <div className="px-2">
-            <h5 className="text-xl font-semibold tracking-tight text-slate-900">
+          <div className="px-1">
+            <h5 className="hidden lg:block text-xl font-semibold tracking-tight text-slate-900">
               {product?.name?.length > 20
                 ? `${product?.name?.slice(0, 20)}...`
+                : product?.name}
+            </h5>
+            <h5 className="text-xl font-semibold tracking-tight text-slate-900 lg:hidden">
+              {product?.name?.length > 14
+                ? `${product?.name?.slice(0, 14)}...`
                 : product?.name}
             </h5>
             <div className="flex items-center text-xl font-bold align-middle text-[#F85606]">

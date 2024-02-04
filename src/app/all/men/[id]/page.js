@@ -9,7 +9,7 @@ import getMenSingleProduct from "@/lib/Api/getMenSingleProduct";
 export default async function MenSingle({ params }) {
   const { id } = params;
 const {data} = await getMenSingleProduct(id);
-
+console.log(data);
   return (
     <div>
       <div className="grid lg:grid-cols-2 lg:mx-32 mx-5 gap-10">
@@ -19,7 +19,7 @@ const {data} = await getMenSingleProduct(id);
         <div>
           <div>
             <h1 className="font-bold text-2xl">
-              Mens Premium Sports Active Wear T-shirt - Inferno
+              {data?.name}
             </h1>
             <div className="flex  items-center text-xl font-bold  gap-2 py-2">
               <TbCurrencyTaka />
