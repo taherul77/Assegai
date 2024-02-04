@@ -1,18 +1,15 @@
 import Image from "next/image";
 import { TbCurrencyTaka } from "react-icons/tb";
 import { AiOutlineShoppingCart } from "react-icons/ai";
-
-import image from "@/lib/assets/Product/1.jpg";
-import getAllProduct from "@/lib/Api/getAllProduct";
 import Link from "next/link";
 
-export default function Card( {data}) {
+export default function MenCard( {data}) {
  
   return (
    <>
    {data?.map((product) => (
       <Link
-        href={`all/${product._id}`}
+        href={`men/${product._id}`}
         key={product._id}
         className="relative block w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md"
       >

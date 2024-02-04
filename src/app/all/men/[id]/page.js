@@ -5,14 +5,16 @@ import { GoDotFill } from "react-icons/go";
 import image from "@/lib/assets/Product/1.jpg";
 import Image from "next/image";
 import { TbCurrencyTaka } from "react-icons/tb";
-export default function SingleProduct({ params }) {
+import getMenSingleProduct from "@/lib/Api/getMenSingleProduct";
+export default async function MenSingle({ params }) {
   const { id } = params;
+const {data} = await getMenSingleProduct(id);
 
   return (
     <div>
       <div className="grid lg:grid-cols-2 lg:mx-32 mx-5 gap-10">
         <div>
-          <Image height={650} width={550} src={image} alt="" />
+          <Image height={650} width={550} src={data.image} alt="" />
         </div>
         <div>
           <div>
