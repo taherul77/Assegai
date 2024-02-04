@@ -1,121 +1,1700 @@
-{
-    "new_arrivals": [
+[
+  {
+   
+    "name": "Black Sneakers T-shirt",
+    "full_name": "",
+    "image": "https://i.ibb.co/tcBgvZ5/1.jpg",
+    "price": 480,
+    "discountedPrice": 800,
+    "discountPercentage": 40,
+    "p_type": "Popular",
+    "p_description": "A stylish black t-shirt with sneakers print, perfect for casual wear.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton" },
+      { "specification": "Color: Black" },
+      { "specification": "Style: Sneakers Print" },
+      { "specification": "Fit: Regular Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Half-Sleeve T-shirt",
-        "picture": "half_sleeve_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+  
+    "name": "Blue Casual Jeans",
+    "full_name": "",
+    "image": "https://i.ibb.co/wRcD3WV/2.png",
+    "price": 550,
+    "discountedPrice": 900,
+    "discountPercentage": 39,
+    "p_type": "New Arrival",
+    "p_description": "Classic blue jeans for a comfortable and casual look.",
+    "p_des_specification": [
+      { "specification": "Material: Denim" },
+      { "specification": "Color: Blue" },
+      { "specification": "Style: Casual" },
+      { "specification": "Fit: Straight Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Designer Short Sleeve",
-        "picture": "designer_short_sleeve.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+
+  {
+   
+    "name": "Striped Polo Shirt",
+    "full_name": "",
+    "image": "https://i.ibb.co/xM6qjbJ/3.png",
+    "price": 320,
+    "discountedPrice": 500,
+    "discountPercentage": 36,
+    "p_type": "Popular",
+    "p_description": "A comfortable striped polo shirt for a sporty and casual look.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton" },
+      { "specification": "Color: Blue/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Slim Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Sports T-shirt",
-        "picture": "sports_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+   
+    "name": "Slim Fit Chinos",
+    "full_name": "",
+    "image": "https://i.ibb.co/gzZzMZk/4.jpg",
+    "price": 450,
+    "discountedPrice": 700,
+    "discountPercentage": 36,
+    "p_type": "Best Seller",
+    "p_description": "Stylish slim fit chinos for a polished and modern look.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton Blend" },
+      { "specification": "Color: Khaki" },
+      { "specification": "Style: Slim Fit" },
+      { "specification": "Closure: Zipper and Button" }
+    ],
+    "p_size": [
       {
-        "category": "Polo",
-        "picture": "polo_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Floral Print Summer Dress",
+    "full_name": "",
+    "image": "https://i.ibb.co/NmdbV9w/5.jpg",
+    "price": 680,
+    "discountedPrice": 1000,
+    "discountPercentage": 32,
+    "p_type": "New Arrival",
+    "p_description": "A beautiful floral print dress for a fresh and vibrant summer look.",
+    "p_des_specification": [
+      { "specification": "Material: Chiffon" },
+      { "specification": "Color: Floral Print" },
+      { "specification": "Style: A-line" },
+      { "specification": "Occasion: Summer, Casual" }
+    ],
+    "p_size": [
       {
-        "category": "Cut & Stitch Polo",
-        "picture": "cut_stitch_polo.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+   
+    "name": "Classic Leather Jacket",
+    "full_name": "",
+    "image": "https://i.ibb.co/7vD7mDT/6.jpg",
+    "price": 780,
+    "discountedPrice": 1200,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Timeless black leather jacket for a cool and edgy style.",
+    "p_des_specification": [
+      { "specification": "Material: Genuine Leather" },
+      { "specification": "Color: Black" },
+      { "specification": "Style: Biker Jacket" },
+      { "specification": "Closure: Zipper" }
+    ],
+    "p_size": [
       {
-        "category": "Half Sleeve Raglan",
-        "picture": "half_sleeve_raglan.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Retro Round Sunglasses",
+    "full_name": "",
+    "image": "https://i.ibb.co/xfNHTmR/7.jpg",
+    "price": 45,
+    "discountedPrice": 80,
+    "discountPercentage": 44,
+    "p_type": "Best Seller",
+    "p_description": "Stay stylish with these retro round sunglasses, perfect for any sunny day.",
+    "p_des_specification": [
+      { "specification": "Frame Material: Metal" },
+      { "specification": "Lens Material: Polycarbonate" },
+      { "specification": "Style: Round" },
+      { "specification": "UV Protection: Yes" }
+    ],
+    "p_size": [
       {
-        "category": "Half Sleeve Blanks",
-        "picture": "half_sleeve_blanks.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Cotton Blend Hoodie",
+    "full_name": "",
+    "image": "https://i.ibb.co/LZs88F5/8.jpg",
+    "price": 600,
+    "discountedPrice": 950,
+    "discountPercentage": 37,
+    "p_type": "Popular",
+    "p_description": "Comfortable cotton blend hoodie for a casual and laid-back style.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton Blend" },
+      { "specification": "Color: Gray" },
+      { "specification": "Style: Hooded Sweatshirt" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Designer Full Sleeve",
-        "picture": "designer_full_sleeve.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+   
+    "name": "Denim Mini Skirt",
+    "full_name": "",
+    "image": "https://i.ibb.co/ys6VL3w/9.png",
+    "price": 320,
+    "discountedPrice": 500,
+    "discountPercentage": 36,
+    "p_type": "New Arrival",
+    "p_description": "Stylish denim mini skirt for a trendy and fashionable look.",
+    "p_des_specification": [
+      { "specification": "Material: Denim" },
+      { "specification": "Color: Blue" },
+      { "specification": "Style: Mini" },
+      { "specification": "Closure: Button and Zipper" }
+    ],
+    "p_size": [
       {
-        "category": "Full Sleeve Raglan",
-        "picture": "full_sleeve_raglan.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+   
+    "name": "White Lace Blouse",
+    "full_name": "",
+    "image": "https://i.ibb.co/6m6hd7g/10.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Elegant white lace blouse for a sophisticated and feminine look.",
+    "p_des_specification": [
+      { "specification": "Material: Lace" },
+      { "specification": "Color: White" },
+      { "specification": "Style: Long Sleeve" },
+      { "specification": "Fit: Slim Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Full Sleeve Blanks",
-        "picture": "full_sleeve_blanks.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Slim Fit Checked Shirt",
+    "full_name": "",
+    "image": "https://i.ibb.co/xLVjMHP/11.jpg",
+    "price": 380,
+    "discountedPrice": 600,
+    "discountPercentage": 37,
+    "p_type": "Best Seller",
+    "p_description": "Classic slim fit checked shirt for a smart and polished appearance.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton" },
+      { "specification": "Color: Red/White" },
+      { "specification": "Style: Checked" },
+      { "specification": "Fit: Slim Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Football Jerseys",
-        "picture": "football_jerseys.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Canvas Backpack",
+    "full_name": "",
+    "image": "https://i.ibb.co/myWN8kk/12.jpg",
+    "price": 60,
+    "discountedPrice": 100,
+    "discountPercentage": 40,
+    "p_type": "New Arrival",
+    "p_description": "Durable canvas backpack for a stylish and practical everyday carry.",
+    "p_des_specification": [
+      { "specification": "Material: Canvas" },
+      { "specification": "Color: Gray" },
+      { "specification": "Style: Backpack" },
+      { "specification": "Closure: Zipper" }
+    ],
+    "p_size": [
       {
-        "category": "Hoodie",
-        "picture": "hoodie.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Athletic Running Shoes",
+    "full_name": "",
+    "image": "https://i.ibb.co/7kfZRcH/13.jpg",
+    "price": 120,
+    "discountedPrice": 200,
+    "discountPercentage": 40,
+    "p_type": "Popular",
+    "p_description": "Comfortable athletic running shoes for an active and sporty lifestyle.",
+    "p_des_specification": [
+      { "specification": "Material: Mesh Upper, Rubber Sole" },
+      { "specification": "Color: Black/White" },
+      { "specification": "Style: Running Shoes" },
+      { "specification": "Closure: Lace-up" }
+    ],
+    "p_size": [
       {
-        "category": "Jacket",
-        "picture": "jacket.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Quilted Puffer Jacket",
+    "full_name": "",
+    "image": "https://i.ibb.co/nQ6tWdQ/14.jpg",
+    "price": 720,
+    "discountedPrice": 1100,
+    "discountPercentage": 34,
+    "p_type": "Best Seller",
+    "p_description": "Warm quilted puffer jacket for a stylish and cozy winter look.",
+    "p_des_specification": [
+      { "specification": "Material: Nylon Shell, Polyester Filling" },
+      { "specification": "Color: Olive Green" },
+      { "specification": "Style: Puffer Jacket" },
+      { "specification": "Closure: Zipper and Snap Buttons" }
+    ],
+    "p_size": [
       {
-        "category": "Mens Shorts",
-        "picture": "mens_shorts.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Silver Hoop Earrings",
+    "full_name": "",
+    "image": "https://i.ibb.co/q97WPyy/15.jpg",
+    "price": 700,
+    "discountedPrice": 400,
+    "discountPercentage": 38,
+    "p_type": "New Arrival",
+    "p_description": "Stylish silver hoop earrings for a classic and timeless accessory.",
+    "p_des_specification": [
+      { "specification": "Material: Sterling Silver" },
+      { "specification": "Color: Silver" },
+      { "specification": "Style: Hoop Earrings" },
+      { "specification": "Closure: Snap Closure" }
+    ],
+    "p_size": [
       {
-        "category": "Mens Trousers",
-        "picture": "mens_trousers.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "High-Waisted Yoga Leggings",
+    "full_name": "",
+    "image": "https://i.ibb.co/Z132vRT/16.jpg",
+    "price": 35,
+    "discountedPrice": 60,
+    "discountPercentage": 42,
+    "p_type": "Popular",
+    "p_description": "Comfortable high-waisted yoga leggings for a flexible and stylish workout.",
+    "p_des_specification": [
+      { "specification": "Material: Spandex Blend" },
+      { "specification": "Color: Black" },
+      { "specification": "Style: Yoga Leggings" },
+      { "specification": "Fit: High-Waisted" }
+    ],
+    "p_size": [
       {
-        "category": "Track Pants",
-        "picture": "track_pants.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Leather Crossbody Bag",
+    "full_name": "",
+    "image": "https://i.ibb.co/dM91XH8/18.jpg",
+    "price": 90,
+    "discountedPrice": 150,
+    "discountPercentage": 40,
+    "p_type": "Best Seller",
+    "p_description": "Chic leather crossbody bag for a stylish and convenient accessory.",
+    "p_des_specification": [
+      { "specification": "Material: Genuine Leather" },
+      { "specification": "Color: Brown" },
+      { "specification": "Style: Crossbody Bag" },
+      { "specification": "Closure: Zipper" }
+    ],
+    "p_size": [
       {
-        "category": "Mens Undergarments",
-        "picture": "mens_undergarments.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Casual Striped Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/dM91XH8/18.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Cozy casual striped sweater for a laid-back and stylish look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Navy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Womens T-shirt",
-        "picture": "womens_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Vintage Denim Jacket",
+    "full_name": "",
+    "image": "https://i.ibb.co/NtTgwb3/19.jpg",
+    "price": 580,
+    "discountedPrice": 900,
+    "discountPercentage": 35,
+    "p_type": "New Arrival",
+    "p_description": "Timeless vintage denim jacket for a cool and retro style.",
+    "p_des_specification": [
+      { "specification": "Material: Denim" },
+      { "specification": "Color: Blue" },
+      { "specification": "Style: Vintage" },
+      { "specification": "Closure: Button" }
+    ],
+    "p_size": [
       {
-        "category": "Womens Trendy Pajamas",
-        "picture": "womens_trendy_pajamas.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Printed Silk Scarf",
+    "full_name": "",
+    "image": "https://i.ibb.co/q97WPyy/15.jpg",
+    "price": 30,
+    "discountedPrice": 50,
+    "discountPercentage": 40,
+    "p_type": "Popular",
+    "p_description": "Charming printed silk scarf for a stylish and versatile accessory.",
+    "p_des_specification": [
+      { "specification": "Material: Silk" },
+      { "specification": "Color: Floral Print" },
+      { "specification": "Style: Scarf" },
+      { "specification": "Size: 70 x 180 cm" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Polo",
-        "picture": "kids_polo.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Crew Neck Sweatshirt",
+    "full_name": "",
+    "image": "https://i.ibb.co/yFryCzh/21.jpg",
+    "price": 380,
+    "discountedPrice": 600,
+    "discountPercentage": 37,
+    "p_type": "Best Seller",
+    "p_description": "Classic crew neck sweatshirt for a comfortable and casual look.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton Blend" },
+      { "specification": "Color: Heather Gray" },
+      { "specification": "Style: Crew Neck" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Half Sleeve T-shirt",
-        "picture": "kids_half_sleeve_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Casual Jogger Pants",
+    "full_name": "",
+    "image": "https://i.ibb.co/7WZmJqg/22.jpg",
+    "price": 450,
+    "discountedPrice": 700,
+    "discountPercentage": 36,
+    "p_type": "Popular",
+    "p_description": "Comfortable casual jogger pants for a sporty and relaxed style.",
+    "p_des_specification": [
+      { "specification": "Material: Cotton Blend" },
+      { "specification": "Color: Charcoal Gray" },
+      { "specification": "Style: Jogger Pants" },
+      { "specification": "Fit: Slim Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Half-Sleeve Blanks",
-        "picture": "kids_half_sleeve_blanks.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Bohemian Maxi Dress",
+    "full_name": "",
+    "image": "https://i.ibb.co/hCYFvcj/23.jpg",
+    "price": 650,
+    "discountedPrice": 1000,
+    "discountPercentage": 35,
+    "p_type": "New Arrival",
+    "p_description": "Bohemian-style maxi dress for a free-spirited and fashionable look.",
+    "p_des_specification": [
+      { "specification": "Material: Rayon" },
+      { "specification": "Color: Floral Print" },
+      { "specification": "Style: Maxi Dress" },
+      { "specification": "Fit: Loose Fit" }
+    ],
+    "p_size": [
+      { "size": "XS", "bust": "32", "waist": "26", "length": "55" },
+      { "size": "S", "bust": "34", "waist": "28", "length": "56" },
+      { "size": "M", "bust": "36", "waist": "30", "length": "57" },
+      { "size": "L", "bust": "38", "waist": "32", "length": "58" }
+    ]
+  },
+  {
+    
+    "name": "Classic Aviator Sunglasses",
+    "full_name": "",
+    "image": "https://i.ibb.co/Tk44db8/24.jpg",
+    "price": 50,
+    "discountedPrice": 90,
+    "discountPercentage": 44,
+    "p_type": "Popular",
+    "p_description": "Timeless classic aviator sunglasses for a cool and sophisticated look.",
+    "p_des_specification": [
+      { "specification": "Frame Material: Metal" },
+      { "specification": "Lens Material: Polycarbonate" },
+      { "specification": "Style: Aviator" },
+      { "specification": "UV Protection: Yes" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Maggie T-shirt",
-        "picture": "kids_maggie_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Ruffle Sleeve Blouse",
+    "full_name": "",
+    "image": "https://i.ibb.co/N3M9tFN/24.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Best Seller",
+    "p_description": "Chic ruffle sleeve blouse for a feminine and stylish appearance.",
+    "p_des_specification": [
+      { "specification": "Material: Polyester" },
+      { "specification": "Color: Ivory" },
+      { "specification": "Style: Short Sleeve" },
+      { "specification": "Fit: Regular Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Full Sleeve T-shirt",
-        "picture": "kids_full_sleeve_tshirt.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Slim Fit Suit",
+    "full_name": "",
+    "image": "https://i.ibb.co/YWRqLLf/25.jpg",
+    "price": 850,
+    "discountedPrice": 1300,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Sophisticated slim fit suit for a sharp and tailored look.",
+    "p_des_specification": [
+      { "specification": "Material: Wool Blend" },
+      { "specification": "Color: Charcoal Gray" },
+      { "specification": "Style: Single Breasted" },
+      { "specification": "Closure: Button" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Trousers",
-        "picture": "kids_trousers.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Knitted Infinity Scarf",
+    "full_name": "",
+    "image": "https://i.ibb.co/FVD2RmS/26.jpg",
+    "price": 28,
+    "discountedPrice": 45,
+    "discountPercentage": 38,
+    "p_type": "Best Seller",
+    "p_description": "Warm and stylish knitted infinity scarf for a cozy winter accessory.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic" },
+      { "specification": "Color: Burgundy" },
+      { "specification": "Style: Infinity Scarf" },
+      { "specification": "Size: 30 x 180 cm" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Shorts",
-        "picture": "kids_shorts.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Suede Ankle Boots",
+    "full_name": "",
+    "image": "https://i.ibb.co/9WTLR0D/28.jpg",
+    "price": 120,
+    "discountedPrice": 200,
+    "discountPercentage": 40,
+    "p_type": "Popular",
+    "p_description": "Stylish suede ankle boots for a trendy and versatile footwear option.",
+    "p_des_specification": [
+      { "specification": "Material: Suede" },
+      { "specification": "Color: Tan" },
+      { "specification": "Style: Ankle Boots" },
+      { "specification": "Closure: Zipper" }
+    ],
+    "p_size": [
       {
-        "category": "Premium Cloth Masks",
-        "picture": "premium_cloth_masks.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Button-Up Cardigan",
+    "full_name": "",
+    "image": "https://i.ibb.co/BjNCJz8/29.jpg",
+    "price": 380,
+    "discountedPrice": 600,
+    "discountPercentage": 37,
+    "p_type": "New Arrival",
+    "p_description": "Versatile button-up cardigan for a classic and cozy layering piece.",
+    "p_des_specification": [
+      { "specification": "Material: Wool Blend" },
+      { "specification": "Color: Heather Gray" },
+      { "specification": "Style: Cardigan" },
+      { "specification": "Closure: Buttons" }
+    ],
+    "p_size": [
       {
-        "category": "Designer Edition Masks",
-        "picture": "designer_edition_masks.jpg"
+        "size": "M",
+        "waist": "28",
+        "length": "32"
       },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/9VXtSkL/60.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
       {
-        "category": "Kids Edition Masks",
-        "picture": "kids_edition_masks.jpg"
-      }
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/vZKyt8j/30.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/cvnVB2c/31.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/vZKyt8j/30.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/fvVndjF/32.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/Vj2cnSf/33.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/wg1zcxk/35.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/vYFdRPr/36.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/NrHcRmV/37.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/VwrCnM1/38.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/9hVbPkt/40.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/807wZbc/41.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/b22q9j9/42.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/KhyDqbW/43.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/2vCqgQJ/44.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/n6t74h9/45.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/S3FF9CF/47.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/Hr8Hx8q/48.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/B2rfGqq/49.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/3dsZpcK/50.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/tPL9Vm3/53.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/L17zkbn/51.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/fF89D4V/54.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/HtSKryV/55.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/kJJ1F13/56.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/RyK8ghb/58.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/TcMn2sW/61.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/3T2dBNv/62.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/3T2dBNv/62.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/n7YwXdR/64.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/RY0P7MD/65.png",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/5hhPKTW/66.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/KKJyqfq/67.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
+    ]
+  },
+  {
+    
+    "name": "Striped Knit Sweater",
+    "full_name": "",
+    "image": "https://i.ibb.co/rtM2sp0/68.jpg",
+    "price": 420,
+    "discountedPrice": 650,
+    "discountPercentage": 35,
+    "p_type": "Popular",
+    "p_description": "Classic striped knit sweater for a timeless and comfortable look.",
+    "p_des_specification": [
+      { "specification": "Material: Acrylic Blend" },
+      { "specification": "Color: Burgundy/White" },
+      { "specification": "Style: Striped" },
+      { "specification": "Fit: Relaxed Fit" }
+    ],
+    "p_size": [
+      {
+        "size": "M",
+        "waist": "28",
+        "length": "32"
+      },
+      { "size": "L", "waist": "30", "length": "32" },
+      { "size": "XL", "waist": "32", "length": "32" },
+      { "size": "XXL", "waist": "34", "length": "32" }
     ]
   }
-  
+]
