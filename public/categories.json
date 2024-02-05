@@ -1,0 +1,79 @@
+ [
+      {
+        "id": 1,
+        "name": "Graphic Tees",
+        "description": "T-shirts featuring various graphic designs and prints."
+      },
+      {
+        "id": 2,
+        "name": "Plain Tees",
+        "description": "Simple and plain T-shirts in a variety of colors."
+      },
+      {
+        "id": 3,
+        "name": "Vintage Style",
+        "description": "T-shirts with a retro and vintage look."
+      },
+      {
+        "id": 4,
+        "name": "Funny Prints",
+        "description": "T-shirts with humorous and funny prints."
+      },
+      {
+        "id": 5,
+        "name": "Sports Themes",
+        "description": "T-shirts featuring sports-related designs and logos."
+      },
+      {
+        "id": 6,
+        "name": "Music Inspired",
+        "description": "T-shirts inspired by music and bands."
+      },
+      {
+        "id": 7,
+        "name": "Animal Prints",
+        "description": "T-shirts with prints of various animals."
+      },
+      {
+        "id": 8,
+        "name": "Nature Vibes",
+        "description": "T-shirts inspired by nature and outdoor themes."
+      },
+      {
+        "id": 9,
+        "name": "Geek Culture",
+        "description": "T-shirts for fans of geek and pop culture."
+      },
+      {
+        "id": 10,
+        "name": "Abstract Art",
+        "description": "T-shirts featuring abstract and artistic designs."
+      },
+      {
+        "id": 11,
+        "name": "Travel Collection",
+        "description": "T-shirts inspired by different travel destinations."
+      },
+      {
+        "id": 12,
+        "name": "Festive Prints",
+        "description": "T-shirts for various festivals and celebrations."
+      },
+      {
+        "id": 13,
+        "name": "Gamer Gear",
+        "description": "T-shirts for avid gamers and gaming enthusiasts."
+      },
+      {
+        "id": 14,
+        "name": "Techie Tees",
+        "description": "T-shirts with technology-themed prints and slogans."
+      },
+      {
+        "id": 15,
+        "name": "DIY Customization",
+        "description": "Plain T-shirts that can be customized and personalized."
+      }
+    ]
+
+  
