@@ -5,7 +5,7 @@ import MenuItem from "../../components/MenuItem";
 const Nav = () => {
   return (
     <nav
-      className="hidden lg:flex items-center lg:space-x-2 py-1"
+      className="hidden md:flex items-center lg:space-x-2 py-1"
       aria-label="Global"
     >
       <button className="hover:bg-black/20 transition-all rounded-full p-1 text-gray-500">
