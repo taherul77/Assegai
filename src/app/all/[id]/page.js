@@ -16,7 +16,7 @@ export default async function SingleProduct({ params }) {
         </div>
         <div>
           <div className="">
-            <h1 className="font-bold text-2xl">{data?.name}</h1>
+          <h1 className="font-bold text-2xl truncate w-full">{data?.name}</h1>
             <div className="flex  items-center text-xl font-bold  gap-2 py-2">
               <div className="flex items-center  line-through">
                 <TbCurrencyTaka />
