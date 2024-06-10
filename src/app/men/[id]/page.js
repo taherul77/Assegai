@@ -1,13 +1,16 @@
+import React from "react";
 import { FaMinus } from "react-icons/fa6";
 import { FaPlus } from "react-icons/fa6";
 import { GoDotFill } from "react-icons/go";
+
 import Image from "next/image";
 import { TbCurrencyTaka } from "react-icons/tb";
 import getMenSingleProduct from "@/lib/Api/getMenSingleProduct";
-export default async function SingleProduct({ params }) {
+export default async function MenSingle({ params }) {
   const { id } = params;
   const { data } = await getMenSingleProduct(id);
   const { p_size, p_des_specification } = data;
+
   return (
     <div>
       <div className="grid lg:grid-cols-2 lg:mx-32 mx-5 gap-5">
@@ -79,6 +82,7 @@ export default async function SingleProduct({ params }) {
                   <th className="px-5 lg:px-10 bg-gray-300">Size</th>
                   <th className="px-5 lg:px-10 bg-gray-200">Waist</th>
                   <th className="px-5 lg:px-10 bg-gray-300">Length</th>
+                  
                 </tr>
               </thead>
               {p_size?.map((size, index) => (

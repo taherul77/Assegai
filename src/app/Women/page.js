@@ -1,5 +1,4 @@
-import Latest from '@/lib/components/Home/HomeComponent/Latest'
-import React from 'react'
+import Latest from "@/lib/components/Home/HomeComponent/Latest";
 
 export default function Women() {
   return (
