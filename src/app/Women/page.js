@@ -5,14 +5,7 @@ export default function Women() {
     <div>
       <Latest></Latest>
       <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
+     
     </div>
   )
 }

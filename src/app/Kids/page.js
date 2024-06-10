@@ -8,12 +8,7 @@ export default function Kids() {
       <Latest></Latest>
       <Latest></Latest>
       <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
-      <Latest></Latest>
+      
     </div>
   )
 }
